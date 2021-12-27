@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lumpydave
-- 👀 I’m interested in python and web tools
+- 👀 I’m interested in linux on pc and raspberry pi using python and web tools
 - 🌱 I’m currently learning python
 
 <!---
